@@ -13,4 +13,4 @@ sample
 10/10/2021 -->Sunday
 19/10/2021 -->Tuesday
 11/10/2021 --> Monday
-19/01/2022 ---> Wed
+19/01/2022 ---> Wednesday
